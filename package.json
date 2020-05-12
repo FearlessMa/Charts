@@ -1,0 +1,27 @@
+{
+  "name": "charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@fearless-ma/gitcommit": "^1.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "@fearless-ma/gitcommit",
+    "cm": " commit ",
+    "eslint": "eslint -v",
+    "logs": "logs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FearlessMa/Charts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FearlessMa/Charts/issues"
+  },
+  "homepage": "https://github.com/FearlessMa/Charts#readme"
+}
