@@ -1,6 +1,6 @@
 {
   "name": "charts",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "",
   "main": "index.js",
   "dependencies": {},
@@ -12,7 +12,9 @@
     "commit": "@fearless-ma/gitcommit",
     "cm": " commit ",
     "eslint": "eslint -v",
-    "logs": "logs"
+    "logs": "logs",
+    "uuid": "uuid",
+    "uuidh": "uuid --help"
   },
   "repository": {
     "type": "git",
