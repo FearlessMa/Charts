@@ -1,8 +1,6 @@
-# Changelog
+# [1.1.0-alpha.7](https://github.com/FearlessMa/Charts/compare/v1.1.0-alpha.6...v1.1.0-alpha.7) (2020-05-18)
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.1.0-alpha.7](https://github.com/FearlessMa/Charts/compare/v1.1.0-alpha.6...v1.1.0-alpha.7) (2020-05-18)
 
 # [1.1.0-alpha.6](https://github.com/FearlessMa/Charts/compare/v1.1.0-alpha.5...v1.1.0-alpha.6) (2020-05-18)
 
@@ -79,3 +77,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 ## 1.0.1-alpha.0 (2020-05-12)
+
+
+
