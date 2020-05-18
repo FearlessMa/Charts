@@ -1,20 +1,31 @@
 {
   "name": "charts",
-  "version": "1.0.1-alpha.3",
+  "version": "1.0.1-alpha.10",
   "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@fearless-ma/gitcommit": "^1.9.0"
+    "@fearless-ma/gitcommit": "^1.15.0-alpha.3",
+    "commitizen": "^4.1.2",
+    "conventional-changelog-cli": "^2.0.34",
+    "cz-conventional-changelog": "^3.2.0",
+    "eslint": "^7.0.0",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.2",
+    "prettier": "^2.0.5",
+    "standard-version": "^8.0.0",
+    "validate-commit-msg": "^2.14.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "@fearless-ma/gitcommit",
+    "commit": "autoCommit",
+    "sh": "autoCommit",
     "cm": " commit ",
     "eslint": "eslint -v",
     "logs": "logs",
     "uuid": "uuid",
-    "uuidh": "uuid --help"
+    "uuidh": "uuid --help",
+    "lint": "eslint index.js && lint-staged"
   },
   "repository": {
     "type": "git",
