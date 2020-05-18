@@ -1,11 +1,11 @@
 {
   "name": "charts",
-  "version": "1.1.0-alpha.7",
+  "version": "1.1.0-alpha.8",
   "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@fearless-ma/gitcommit": "^1.16.0-alpha.0",
+    "@fearless-ma/gitcommit": "^1.16.0-alpha.2",
     "commitizen": "^4.1.2",
     "conventional-changelog-cli": "^2.0.34",
     "cz-conventional-changelog": "^3.2.0",
