@@ -1,7 +1,7 @@
-import a from '@fearless-ma/gitcommit';
 
-// const {a} = require('@fearless-ma/gitcommit')
-console.log('a: ', a);
-// a();
+const a = 1;
+let b =3;
 
+let res=a*b+1;
 
+console.log('res: ', res);
