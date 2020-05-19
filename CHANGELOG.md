@@ -1,15 +1,4 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
-## [1.3.0-alpha.24](https://github.com/FearlessMa/Charts/compare/v1.3.0-alpha.21...v1.3.0-alpha.24) (2020-05-19)
-
-
-### Features
-
-* test ([6bf842d](https://github.com/FearlessMa/Charts/commit/6bf842d914be6a1bb6a5e06203e4262f0258e01d))
-
-# [1.3.0-alpha.23](https://github.com/FearlessMa/Charts/compare/v1.3.0-alpha.21...v1.3.0-alpha.23) (2020-05-19)
+# [1.3.0-alpha.24](https://github.com/FearlessMa/Charts/compare/v1.3.0-alpha.21...v1.3.0-alpha.24) (2020-05-19)
 
 
 ### Features
@@ -364,3 +353,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 
 ## 1.0.1-alpha.0 (2020-05-12)
+
+
+
