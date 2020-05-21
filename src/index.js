@@ -1,6 +1,6 @@
 const a = 1;
 let b = 3;
 
-let res = a * b + 1 + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9;
+let res = a * b + 1 - 2 - 13 - 4 - 53 - 32 - 1;
 
 console.log("res: ", res);
