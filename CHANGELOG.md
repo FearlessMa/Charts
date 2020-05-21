@@ -1,3 +1,14 @@
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## [1.8.0](https://github.com/FearlessMa/Charts/compare/v1.7.0...v1.8.0) (2020-05-21)
+
+
+### Features
+
+* ttt ([adb43ff](https://github.com/FearlessMa/Charts/commit/adb43ff1a7ee0a468823658ed49effe86277d8c1))
+
 # [1.7.0](https://github.com/FearlessMa/Charts/compare/v1.6.0...v1.7.0) (2020-05-21)
 
 
@@ -380,6 +391,3 @@
 
 
 ## 1.0.1-alpha.0 (2020-05-12)
-
-
-
