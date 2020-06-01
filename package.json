@@ -1,17 +1,17 @@
 {
   "name": "charts",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "@fearless-ma/auto-commit": "^1.35.1-beta.0",
+    "@fearless-ma/auto-commit": "^1.38.0-stable.0",
     "commitizen": "^4.1.2",
     "conventional-changelog-cli": "^2.0.34",
     "cz-conventional-changelog": "^3.2.0",
-    "eslint": "^7.0.0",
+    "eslint": "^7.1.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.4",
+    "lint-staged": "^10.2.7",
     "prettier": "^2.0.5",
     "standard-version": "^8.0.0",
     "validate-commit-msg": "^2.14.0"
